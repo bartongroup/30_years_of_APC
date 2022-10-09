@@ -1,4 +1,4 @@
-# 30_years_of_APC
+# 30 years of APC
 
 This repository contains the code used in generating the results and figures in the 'The adenomatous polyposis coli protein 3o years on' (Abbott and Nathke, submitted) manuscript.
 
